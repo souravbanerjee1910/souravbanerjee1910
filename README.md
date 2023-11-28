@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/@Exploring_With_Sourav)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-ExploringWithSourav-red)](https://www.youtube.com/@Exploring_With_Sourav)
 [![Linkedin Badge](https://img.shields.io/badge/-Sourav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souravbanerjee1910--01629954/)](https://www.linkedin.com/in/souravbanerjee1910--01629954/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Sourav-green)](https://www.sourav)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-souravbanerjee1910-yellow)](https://stackoverflow.com/users/3687251/souravbanerjee1910-)
